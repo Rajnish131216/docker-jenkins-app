@@ -1,0 +1,9 @@
+{
+  "name": "docker-jenkins-app",
+  "version": "1.0.0",
+  "description": "Jenkins Docker Pipeline Practical",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
